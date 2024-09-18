@@ -1,6 +1,46 @@
-# 📜 Análise de Contrato POC AI - Web App MVP 🚀
+# 📊 Análise de Contrato POC AI - Web App MVP 🚀
 
 ![Banner](https://github.com/chaos4455/Analise-Contrato-POC-AI/raw/main/assets/banner.png)
+
+## 🚀 Tecnologias Utilizadas
+
+### 🛠️ Ferramentas e Tecnologias
+
+- ![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python&logoColor=white)
+- ![Streamlit](https://img.shields.io/badge/Streamlit-1.15.0-blue?style=flat&logo=streamlit&logoColor=white)
+- ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-1.19.0-blue?style=flat&logo=python&logoColor=white)
+- ![Google Gemini](https://img.shields.io/badge/Google_Gemini-1.5-orange?style=flat&logo=google&logoColor=white)
+- ![LLM](https://img.shields.io/badge/LLM-Models-orange?style=flat&logo=google&logoColor=white)
+- ![Markdown](https://img.shields.io/badge/Markdown-100%25-yellow?style=flat&logo=markdown&logoColor=white)
+
+## 🛠️ Descrição do Projeto
+
+Este repositório contém um **web app POC MVP** desenvolvido para a **análise automatizada de contratos**. Utilizando **Streamlit** para a interface e **Google Gemini** (incluindo Gemini Pro 1.5) para processamento avançado de linguagem natural, a aplicação visa otimizar e automatizar o processo de revisão de contratos. 🌟
+
+### 🔍 Tecnologias e Funcionalidades
+
+#### **Google Gemini e Gemini Pro 1.5** 🌐
+- **Google Gemini:** A tecnologia de ponta para processamento de linguagem natural, incluindo o Gemini Pro 1.5, que traz avanços significativos na compreensão e geração de texto.
+- **Aplicações:** Análise detalhada e interpretação de contratos usando IA avançada para oferecer insights valiosos e resumir documentos complexos.
+
+#### **Streamlit** 🧩
+- **Descrição:** Framework para criar aplicativos web interativos e fáceis de usar em Python.
+- **Funcionalidades:** Desenvolvimento de uma interface amigável para upload e visualização de contratos, análise de dados, e exibição de resultados.
+
+#### **Python** 🐍
+- **Descrição:** Linguagem de programação utilizada para implementar a lógica da aplicação e interagir com bibliotecas de IA e NLP.
+- **Versão:** Python 3.9 para garantir compatibilidade e desempenho.
+
+#### **PyMuPDF** 📄
+- **Descrição:** Biblioteca para leitura e análise de documentos PDF.
+- **Funcionalidades:** Extração de texto e dados dos contratos para análise posterior.
+
+## 🔧 Funcionalidades
+
+- **Upload de Contratos:** Permite aos usuários fazer o upload de contratos em PDF para análise.
+- **Análise Automatizada:** Usa modelos de linguagem avançada para processar e extrair informações dos contratos.
+- **Resumo e Insights:** Gera resumos e destaca cláusulas importantes e potencialmente problemáticas.
+- **Visualização:** Exibe os resultados de forma clara e interativa.
 
 Bem-vindo ao repositório **Analise-Contrato-POC-AI**! Este projeto é uma prova de conceito (POC) para um **web app MVP** desenvolvido com **Streamlit** para automação de análise de contratos usando **IA** e **Modelos de Linguagem de Grande Escala (LLM)**. Aqui, exploramos como a tecnologia pode revolucionar a revisão e análise de contratos de forma rápida e eficaz. 🌟
 
