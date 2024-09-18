@@ -35,6 +35,44 @@ Este repositório contém um **web app POC MVP** desenvolvido para a **análise 
 - **Descrição:** Biblioteca para leitura e análise de documentos PDF.
 - **Funcionalidades:** Extração de texto e dados dos contratos para análise posterior.
 
+# 📚 Referências e Documentação
+
+Aqui estão alguns documentos e artefatos relevantes relacionados ao projeto de **Análise de Contratos POC AI**. Esses recursos fornecem insights detalhados, análises e exemplos de contratos para ajudar na compreensão e aplicação da tecnologia.
+
+## 📄 Documentos de Análise
+
+### 1. **Análise de Riscos Associados** 🚨
+- **Descrição:** Documento detalhado que examina os riscos associados aos contratos analisados.
+- **Formato:** PDF
+- **Link para o PDF:** [Análise de Riscos Associados 📉](https://github.com/chaos4455/Analise-Contrato-POC-AI/blob/main/An%C3%A1lise_de_Riscos_Associados_%F0%9F%9A%A9_20240917_113414.pdf)
+- **Formato MD:** [Análise de Riscos Associados 📄](https://github.com/chaos4455/Analise-Contrato-POC-AI/blob/main/An%C3%A1lise_de_Riscos_Associados_%F0%9F%9A%A9_20240917_113414.md)
+
+### 2. **Análise de Conformidade Legal** 📜
+- **Descrição:** Documento que avalia a conformidade legal dos contratos com as normas e regulamentos aplicáveis.
+- **Formato:** PDF
+- **Link para o PDF:** [Análise de Conformidade Legal 📘](https://github.com/chaos4455/Analise-Contrato-POC-AI/blob/main/An%C3%A1lise_de_Conformidade_Legal_%F0%9F%93%9C_20240917_113330.pdf)
+- **Formato MD:** [Análise de Conformidade Legal 📃](https://github.com/chaos4455/Analise-Contrato-POC-AI/blob/main/An%C3%A1lise_de_Conformidade_Legal_%F0%9F%93%9C_20240917_113330.md)
+
+## 🖼️ Exemplos e Impressões de Web App
+
+### 1. **Página do Web App - Impressão Completa** 🖨️
+- **Descrição:** Captura de tela da página completa do web app mostrando a interface e o contrato analisado.
+- **Formato:** PDF
+- **Link para o PDF:** [Página do Web App 📄](https://github.com/chaos4455/Analise-Contrato-POC-AI/blob/main/An%C3%A1lise%20de%20Contratos%20B2B.pdf)
+
+## 📑 Exemplos de Contratos
+
+### 1. **Exemplo de Contrato Público** 📝
+- **Descrição:** Exemplo de contrato público utilizado para testar a análise e a funcionalidade do web app.
+- **Formato:** PDF
+- **Link para o PDF:** [Contrato Público Exemplo 📜](https://github.com/chaos4455/Analise-Contrato-POC-AI/blob/main/4dc749c72cf0.pdf)
+
+## 🔗 Links Adicionais
+
+- **Repositório GitHub do Projeto:** [Analise-Contrato-POC-AI](https://github.com/chaos4455/Analise-Contrato-POC-AI) 🌐
+- **Meu Portfólio GitHub:** [chaos4455](https://github.com/chaos4455?tab=repositories) 🔗
+- **Replika AI Solutions:** [replika-ai-solutions](https://github.com/replika-ai-solutions) 🔗
+
 ## 🔧 Funcionalidades
 
 - **Upload de Contratos:** Permite aos usuários fazer o upload de contratos em PDF para análise.
